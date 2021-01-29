@@ -6,3 +6,5 @@ If you like any of my projects, feel free to leave a star!!
 
 ## Projects
 [GANdam](https://nugujeyong.github.io/GANdam/)
+
+[ColorPalette](https://nugujeyong.github.io/ColorPalette/)
